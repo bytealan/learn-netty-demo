@@ -1,8 +1,8 @@
-package com.demo.netty.c1;
+package com.demo.netty.c1c2c3;
 
 import java.nio.ByteBuffer;
 
-import static com.demo.netty.c1.ByteBufferUtil.debugAll;
+import static com.demo.netty.c1c2c3.ByteBufferUtil.debugAll;
 
 /**
  * @ClassName TestByteBufferReadWrite

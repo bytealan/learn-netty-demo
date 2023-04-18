@@ -1,11 +1,11 @@
-package com.demo.netty.c1;
+package com.demo.netty.c1c2c3;
 
 import java.io.IOException;
 import java.io.RandomAccessFile;
 import java.nio.ByteBuffer;
 import java.nio.channels.FileChannel;
 
-import static com.demo.netty.c1.ByteBufferUtil.debugAll;
+import static com.demo.netty.c1c2c3.ByteBufferUtil.debugAll;
 
 /**
  * @ClassName TestScatteringReads
